@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/natusa/Desktop/C#/C#.csproj",
-      "projectName": "C#",
-      "projectPath": "/Users/natusa/Desktop/C#/C#.csproj",
+      "projectUniqueName": "/Users/natusa/Desktop/C#/Example/Example002/Example002.csproj",
+      "projectName": "Example002",
+      "projectPath": "/Users/natusa/Desktop/C#/Example/Example002/Example002.csproj",
       "packagesPath": "/Users/natusa/.nuget/packages/",
-      "outputPath": "/Users/natusa/Desktop/C#/obj/",
+      "outputPath": "/Users/natusa/Desktop/C#/Example/Example002/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/natusa/.nuget/NuGet/NuGet.Config"

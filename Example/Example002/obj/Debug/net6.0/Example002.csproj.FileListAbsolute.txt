@@ -1,0 +1,15 @@
+/Users/natusa/Desktop/C#/Example/Example002/bin/Debug/net6.0/Example002
+/Users/natusa/Desktop/C#/Example/Example002/bin/Debug/net6.0/Example002.deps.json
+/Users/natusa/Desktop/C#/Example/Example002/bin/Debug/net6.0/Example002.runtimeconfig.json
+/Users/natusa/Desktop/C#/Example/Example002/bin/Debug/net6.0/Example002.dll
+/Users/natusa/Desktop/C#/Example/Example002/bin/Debug/net6.0/Example002.pdb
+/Users/natusa/Desktop/C#/Example/Example002/obj/Debug/net6.0/Example002.csproj.AssemblyReference.cache
+/Users/natusa/Desktop/C#/Example/Example002/obj/Debug/net6.0/Example002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natusa/Desktop/C#/Example/Example002/obj/Debug/net6.0/Example002.AssemblyInfoInputs.cache
+/Users/natusa/Desktop/C#/Example/Example002/obj/Debug/net6.0/Example002.AssemblyInfo.cs
+/Users/natusa/Desktop/C#/Example/Example002/obj/Debug/net6.0/Example002.csproj.CoreCompileInputs.cache
+/Users/natusa/Desktop/C#/Example/Example002/obj/Debug/net6.0/Example002.dll
+/Users/natusa/Desktop/C#/Example/Example002/obj/Debug/net6.0/refint/Example002.dll
+/Users/natusa/Desktop/C#/Example/Example002/obj/Debug/net6.0/Example002.pdb
+/Users/natusa/Desktop/C#/Example/Example002/obj/Debug/net6.0/Example002.genruntimeconfig.cache
+/Users/natusa/Desktop/C#/Example/Example002/obj/Debug/net6.0/ref/Example002.dll
