@@ -1,0 +1,15 @@
+/Users/natusa/Desktop/C#/Example001/bin/Debug/net6.0/Example001
+/Users/natusa/Desktop/C#/Example001/bin/Debug/net6.0/Example001.deps.json
+/Users/natusa/Desktop/C#/Example001/bin/Debug/net6.0/Example001.runtimeconfig.json
+/Users/natusa/Desktop/C#/Example001/bin/Debug/net6.0/Example001.dll
+/Users/natusa/Desktop/C#/Example001/bin/Debug/net6.0/Example001.pdb
+/Users/natusa/Desktop/C#/Example001/obj/Debug/net6.0/Example001.csproj.AssemblyReference.cache
+/Users/natusa/Desktop/C#/Example001/obj/Debug/net6.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natusa/Desktop/C#/Example001/obj/Debug/net6.0/Example001.AssemblyInfoInputs.cache
+/Users/natusa/Desktop/C#/Example001/obj/Debug/net6.0/Example001.AssemblyInfo.cs
+/Users/natusa/Desktop/C#/Example001/obj/Debug/net6.0/Example001.csproj.CoreCompileInputs.cache
+/Users/natusa/Desktop/C#/Example001/obj/Debug/net6.0/Example001.dll
+/Users/natusa/Desktop/C#/Example001/obj/Debug/net6.0/refint/Example001.dll
+/Users/natusa/Desktop/C#/Example001/obj/Debug/net6.0/Example001.pdb
+/Users/natusa/Desktop/C#/Example001/obj/Debug/net6.0/Example001.genruntimeconfig.cache
+/Users/natusa/Desktop/C#/Example001/obj/Debug/net6.0/ref/Example001.dll
