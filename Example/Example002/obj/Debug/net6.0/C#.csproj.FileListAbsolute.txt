@@ -1,0 +1,5 @@
+/Users/natusa/Desktop/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/Users/natusa/Desktop/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natusa/Desktop/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/Users/natusa/Desktop/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/Users/natusa/Desktop/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
